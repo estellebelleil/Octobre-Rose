@@ -1,6 +1,6 @@
 # Bienvenue sur le projet Octobre Rose
 
-Ici vous trouverez le récapitulatif des fonctionnalités mises en place sur la page "Octobre Rose". Il s'agit d'un projet de création d'une page de structurationréaliser intégralement en HTML5 et de son aspect visuel en CSS3 sans ajout de framework. La page est totalement responsive et adaptable (desktop et mobile).
+Ici vous trouverez le récapitulatif des fonctionnalités mises en place sur la page "Octobre Rose". Il s'agit d'un projet de création d'une page de structuration réalisée intégralement en HTML5 et de son aspect visuel en CSS3 sans utilisation de framework CSS. La page est totalement responsive et adaptable (desktop et mobile).
 
 ### Fonctionnalités 
 
