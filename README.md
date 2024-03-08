@@ -12,7 +12,7 @@ Création de médias querries pour une page responsive et adaptable => ```css/st
 
 ### Améliorations envisagées
 
-Création d'un projet symfo complet alliant BDD contenant une base de données d'articles et d'informations sur la lutte contre le cancer du sein, controller et views associées mais également l'intégration d'évènements JS pour une meilleure interactivité de l'application web.
+Création d'un projet symfo complet alliant BDD contenant une base de données d'articles et d'informations sur la lutte contre le cancer du sein, contrôleurs et vues associées mais également l'intégration d'évènements JS pour une meilleure interactivité de l'application web.
 
 ## Envie d'en savoir plus sur mes projets et mon parcours ?
 
